@@ -1,6 +1,5 @@
 </html>
 <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
-<font-family> "Comic Sans MS", "Comic Sans", cursive; </font-family>
 <div class="line"></div>
 <div class="wrapper">
   <header role="banner">
