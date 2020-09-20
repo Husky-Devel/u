@@ -17,7 +17,8 @@
         <a href="About-us.php">About </a>
         <a href="Just-a-test.php">My youtube</a>
         <div class="dropdown">
-          <button class="dropbtn">Hidden sites
+           <button class="dropbtn">Other
+     
             <i class="fa fa-caret-down"></i>
           </button>
           <dindexiv class="dropdown-content">
@@ -46,7 +47,8 @@
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
   <div class="dropdown">
-    <button class="dropbtn">Hidden sites
+     <button class="dropbtn">Other
+     
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
