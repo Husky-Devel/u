@@ -5,14 +5,14 @@
   <header role="banner">
     <nav role="navigation">
       <p>
-        <a href="index.html">
+        <a href="index.php">
           <img src="/Images/small-logo2.png" />
         </a>
       </p>
 
       <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
       <div class="topnav">
-        <a class="active" href="index.html">Home</a>
+        <a class="active" href="index.php">Home</a>
         <a href="Contact.html">Contact</a>
         <a href="About us.html">About </a>
         <a href="Just a test.html">My youtube</a>
