@@ -75,7 +75,7 @@
           </h4>
 
           <body>
-            <body>
+            <h4>
               Principal : Sylvia Fidow
           </body>
           </h4>
