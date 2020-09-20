@@ -1,6 +1,5 @@
 <html>
 <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
-<meta name="viewport" content="width=device-width, initial-scale=1" /> 
 <div class="wrapper">
   <header role="banner">
     <nav role="navigation">
