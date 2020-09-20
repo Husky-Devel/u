@@ -21,6 +21,7 @@
           <dindexiv class="dropdown-content">
             <a href="Just-a-test.php">HMy youtube/a>
             <a href="dad.php">Hidden site 2</a>
+            <a href="Hidden-test">Hidden site 1</a>
           </dindexiv>
         </div>
         <div class="dropdown">
