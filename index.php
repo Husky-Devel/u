@@ -13,8 +13,16 @@
       <div class="topnav">
         <a class="active" href="index.php">Home</a>
         <a href="Contact.php">Contact</a>
-        <a href="About-us.php">About </a>
-        <a href="Just-a-test.php">My youtube</a>
+        <a href="About-us.php">About </a> <div class="dropdown">
+        <button class="dropbtn">My youtube
+     
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <dindexiv class="dropdown-content">
+            <a href="Just-a-test.php">HMy youtube/a>
+            <a href="dad.php">Hidden site 2</a>
+          </dindexiv>
+        </div>
         <div class="dropdown">
         <button class="dropbtn">Other
      
