@@ -12,9 +12,9 @@
       <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
       <div class="topnav">
         <a class="active" href="index.php">Home</a>
-        <a href="Contact.html">Contact</a>
-        <a href="About us.html">About </a>
-        <a href="Just a test.html">My youtube</a>
+        <a href="Contact.php">Contact</a>
+        <a href="About us.php">About </a>
+        <a href="Just a test.php">My youtube</a>
       </div>
     </nav>
 
