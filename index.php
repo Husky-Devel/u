@@ -35,11 +35,7 @@
       <header>
         <p1>
           <h4>
-            Plz click on one of the links above to chose where you want to
-            go. Remeber that this is not finised this is a demo of the wip
-            pages to show my coding skills. pleas remeber that this is NOT
-            finised and is still a wip (work in prograss). This is what i got
-            done so far in 2 weeks to show off. Thank you ,Husky
+          Welcom to the wip site what you see on this site is still a wip (wip stands for work in proress) and is still being developed what you are seeing on this site is what i got done 2 weeks plz remeber that this is still a work in progress thx,Husky
           </h4>
         </p1>
       </header>
