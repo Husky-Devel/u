@@ -30,28 +30,9 @@
             <i class="fa fa-caret-down"></i>
           </button>
           <di class="dropdown-content">
-            <a href="Test-hide.php">Hidden site 1<
-        <div class="dropdown">
-        <button class="dropbtn">My exprince at westrolleston
-     
-            <i class="fa fa-caret-down"></i>
-          </button>
-          <dindexiv class="dropdown-content">
-            <a href="Just-a-test.php">My exprince at westrolleston </a>
-            <a href="">placeholder</a>
-            <a href="">Placeholder1</a>
-          </dindexiv>
-        </div>
-        <div class="dropdown">
-        <button class="dropbtn">Other
-            <i class="fa fa-caret-down"></i>
-          </button>
-          <dindexiv class="dropdown-content">
-            <a href="Test-hide.php">Hidden site 1</a>
-            <a href="dad.php">Hidden site 2</a>
-            <a href="Where-are-we.php">Where are we?</a>
-          </dindexiv>
-        </div>
+            <a href="Test-hide.php">Hidden site 
+              <a href="Test-hide.php">Hidden site 
+                <a href="Where-are-we.php">Where are we
     </nav>
   </header>
   <main role="main">
