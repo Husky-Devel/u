@@ -24,7 +24,7 @@
             <a href="">Placeholder</a>
             <a href="">Placeholder1</a>
           </dindexiv>
-        </div>
+        <div>
         <div class="dropdown">
         <button class="dropbtn">Other
             <i class="fa fa-caret-down"></i>
@@ -32,7 +32,8 @@
           <di class="dropdown-content">
             <a href="Test-hide.php">Hidden site 
               <a href="Test-hide.php">Hidden site 
-                <a href="Where-are-we.php">Where are we
+                <div href="Where-are-we.php">Where are we
+                  </div>
     </nav>
   </header>
   <main role="main">
