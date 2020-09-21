@@ -1,6 +1,5 @@
 <html>
 <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
-<div class="line"></div>
 <div class="wrapper">
   <header role="banner">
     <nav role="navigation">
@@ -14,10 +13,19 @@
       <div class="topnav">
         <a class="active" href="index.php">Home</a>
         <a href="Contact.php">Contact</a>
-        <a href="About-us.php">About </a>
-        <a href="Just-a-test.php">My youtube</a>
+        <a href="About-us.php">About </a> <div class="dropdown">
+        <button class="dropbtn">My youtube
+     
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <dindexiv class="dropdown-content">
+            <a href="Just-a-test.php">My youtube </a>
+            <a href="">Placeholder</a>
+            <a href="">Placeholder1</a>
+          </dindexiv>
+        </div>
         <div class="dropdown">
-           <button class="dropbtn">Other
+        <button class="dropbtn">Other
      
             <i class="fa fa-caret-down"></i>
           </button>
