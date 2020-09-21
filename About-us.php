@@ -52,8 +52,7 @@
       </header>
 
       <p>
-        Welcome to my atemt to redesine the school website
-        this is a beta website and IS NOT FINEL i need to make that clear
+      
       </p>
 
 

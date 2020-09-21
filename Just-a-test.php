@@ -36,16 +36,7 @@
           </dindexiv>
         </div>
     </nav>
-    <p1>
-      <h4>
-        Pleas suscribe to my Youtube channe.This is just a plug
-      </h4>
-      </h4>
-
-
-      <script src="https://apis.google.com/js/platform.js"></script>
-
-      <div class="g-ytsubscribe" data-channelid="UCR_nyRN56CuYDZ8P2YeX8FQ" data-layout="full" data-theme="dark"
-        data-count="shown"></div>
+  <p1><h4>
+  Hi welcome to my web site Rhus page is to share some of my exprins at WRPS before i lave for year 9
 
 </html>

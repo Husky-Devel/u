@@ -46,6 +46,6 @@
         <nav role="navigation">
 
         </nav>
-        <p class="copy">&copy; Made by Husky,hosting by apachey </p>
+        <p class="copy">&copy; Made by Husky,hosting by Microsoft azure      </p>
       </footer>
       <div class="line"></div>
