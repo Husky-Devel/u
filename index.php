@@ -36,10 +36,16 @@
           </dindexiv>
         </div>
     </nav>
+    <HTML>
+<HEAD> <TITLE>Activity - Insert animated GIF to HTML</TITLE> </HEAD>
+<BODY>
+  <IMG SRC="image1.gif">
+</BODY>
+</HTML>
   </header>
   <main role="main">
     <header class="sec-intro" role="section">
-      <img src="Images/Headerimg.jpg" alt="Images/logo.png/>" />
+    <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/IMfi5ugpf3W1y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-dance-fun-IMfi5ugpf3W1y">via GIPHY</a></p>
 
       <header>
         <p1>
