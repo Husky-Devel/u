@@ -37,6 +37,7 @@
         </div>
     </nav>
    <header>
+   <img src="/Images/headerimg.jpg />
         <p1>
           <h4>
           Welcom to the wip site what you see on this site is still a wip (wip stands for work in proress) and is still being developed what you are seeing on this site is what i got done 2 weeks plz remeber that this is still a work in progress thx,Husky
@@ -49,6 +50,5 @@
   </main>
 </div>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/IMfi5ugpf3W1y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-dance-fun-IMfi5ugpf3W1y">via GIPHY</a></p>
 
 </html>
