@@ -19,21 +19,26 @@
         <a href="Contact.php">Contact</a>
         <a href="About-us.php">About </a> 
         <a href="Our-story.php">Reference</a> 
+        <button class="dropbtn">My exprince at westrolleston
+     
+            <i class="fa fa-caret-down"></i>
+          </button>
           <dindexiv class="dropdown-content">
             <a href="Just-a-test.php">My exprince at westrolleston </a>
-            <a href="">Placeholder</a>
+            <a href="Our-story.php">refrence</a>
             <a href="">Placeholder1</a>
           </dindexiv>
-        <div>
+        </div>
         <div class="dropdown">
         <button class="dropbtn">Other
             <i class="fa fa-caret-down"></i>
           </button>
-          <di class="dropdown-content">
-            <a href="Test-hide.php">Hidden site 
-              <a href="Test-hide.php">Hidden site 
-                <div href="Where-are-we.php">Where are we
-                  </div>
+          <dindexiv class="dropdown-content">
+            <a href="Test-hide.php">Hidden site 1</a>
+            <a href="dad.php">Hidden site 2</a>
+            <a href="Where-are-we.php">Where are we?</a>
+          </dindexiv>
+        </div>
     </nav>
   </header>
   <main role="main">
