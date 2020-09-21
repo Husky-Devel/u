@@ -1,4 +1,4 @@
-<html>
+</html>
 <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
 <div class="wrapper">
   <header role="banner">
@@ -36,16 +36,31 @@
           </dindexiv>
         </div>
     </nav>
-   <header>
-        <p1>
-        <a href="index.php">
-          <img src="/IMAGES/Headerimg.jpg />
-        
+  </header>
+  <main role="main">
+    <section class="sec-intro" role="section">
+      <img src="Images/logo.png" alt="Images/Headerimg.jpg/>" />
+      <footer>
+        <nav role="navigation">
+          <ul class="nav-ul">
 
-      <div class="line"></div>
-    </header>
-  </main>
-</div>
+        <
+
+      <html>
+      <header>
+        <h2>About This site</h2>
+      </header>
+
+      <p>
+        Welcome to my atemt to redesine the school website
+        this is a beta website and IS NOT FINEL i need to make that clear
+      </p>
 
 
-</html>
+
+     
+
+      </html>
+
+    
+
