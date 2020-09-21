@@ -25,7 +25,7 @@
     </nav>
   </header>
   <main role="main">
-    <section class="sec-intro" role="section">W
+    <section class="sec-intro" role="section">
       <img src="./Images/Headerimg.jpg" alt="West Rolleston is a great school" />
       <footer>
         <div role="navigation">
