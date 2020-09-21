@@ -33,7 +33,7 @@
   </div>
     </nav>
 <div>
-  Thank you to the real westrolleston site that can be found here at www.westrolleston.school.nz all the imeges are from there
+  Thank you to the real westrolleston site that can be found here at www.westrolleston.school.nz all the images are from there as well as the contact info.
 </div>
 
 </html>
