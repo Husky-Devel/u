@@ -39,7 +39,7 @@
   </header>
   <main role="main">
     <section class="sec-intro" role="section">
-      <img src="Images/logo.png" alt="Images/Headerimg.jpg/>" />
+      <img src="Images/Headerimg.jpg" alt="Images/Headerimg.jpg/>" />
       <footer>
         <nav role="navigation">
           <ul class="nav-ul">
