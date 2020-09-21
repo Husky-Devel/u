@@ -31,7 +31,7 @@
   </div>
 
 <div class="body">
- Welcome to my redesign of the school website click on one of the links above
+ Welcome to my redesign of the school website click on one of the links above.
 </div>
 <div class="body">
   
