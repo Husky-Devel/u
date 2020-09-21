@@ -19,17 +19,9 @@
         <a href="Contact.php">Contact</a>
         <a href="About-us.php">About </a> 
         <a href="Our-story.php">Reference</a> 
-       
-        <div class="dropdown">
-        <button class="dropbtn">Other
-            <i class="fa fa-caret-down"></i>
-          </button>
-          <dindexiv class="dropdown-content">
-            <a href="Test-hide.php">Hidden site 1</a>
-            <a href="dad.php">Hidden site 2</a>
-            <a href="Where-are-we.php">Where are we?</a>
-          </dindexiv>
-        </div>
+        <a href="Test-hide.php">Hidden site 1</a>
+        <a href="dad.php">Hidden site 2</a>
+        <a href="Where-are-we.php">Where are we?</a>
     </nav>
   </header>
   <main role="main">
