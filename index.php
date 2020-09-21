@@ -17,14 +17,28 @@
       <div class="topnav">
         <a class="active" href="index.php">Home</a>
         <a href="Contact.php">Contact</a>
-        <a href="About-us.php">About </a> <div class="dropdown">
+        <a href="About-us.php">About </a> 
+        <a href="Where-are-we.php">Reference</a> 
+          <dindexiv class="dropdown-content">
+            <a href="Just-a-test.php">My exprince at westrolleston </a>
+            <a href="">Placeholder</a>
+            <a href="">Placeholder1</a>
+          </dindexiv>
+        </div>
+        <div class="dropdown">
+        <button class="dropbtn">Other
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <di class="dropdown-content">
+            <a href="Test-hide.php">Hidden site 1<
+        <div class="dropdown">
         <button class="dropbtn">My exprince at westrolleston
      
             <i class="fa fa-caret-down"></i>
           </button>
           <dindexiv class="dropdown-content">
             <a href="Just-a-test.php">My exprince at westrolleston </a>
-            <a href="">Placeholder</a>
+            <a href="">placeholder</a>
             <a href="">Placeholder1</a>
           </dindexiv>
         </div>
