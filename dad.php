@@ -46,12 +46,12 @@
 
     <head>
       <title>
-        hideing from the world is awesome!
+        Hidding from the world is awesome!
       </title>
     </head>
 
     <body>
-      <marquee>hideing from the world is awesome!</marquee>
+      <marquee>Hidding from the world is awesome!</marquee>
 
       <marquee direction="up">Hidden!</marquee>
 
