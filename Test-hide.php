@@ -10,31 +10,22 @@
         </a>
       </p>
 
-      <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
+  
       <div class="topnav">
         <a class="active" href="index.php">Home</a>
         <a href="Contact.php">Contact</a>
-        <a href="About-us.php">About </a>
-        <a href="Just-a-test.php">My youtube</a>
-        <div class="dropdown">
-           <button class="dropbtn">Other
-     
-            <i class="fa fa-caret-down"></i>
-          </button>
-          <dindexiv class="dropdown-content">
-            <a href="Test-hide.php">Hidden site 1</a>
-            <a href="dad.php">Hidden site 2</a>
-            <a href="Where-are-we.php">Where are we?</a>
-          </dindexiv>
+        <a href="About-us.php">About </a> 
+        <a href="Our-story.php">Reference</a> 
+        <a href="Test-hide.php">Hidden site 1</a>
+        <a href="dad.php">Hidden site 2</a>
+        <a href="Where-are-we.php">Where are we?</a>
         </div>
     </nav>
 
 <body>
   <p1>
-    Welocone to the hidden site
-    This site is just for testting
-    or you could see fechers that are going to be implemented.. somtime
-    How did you get here?
+  Welcome to the hidden site
+    This site is just for testing
   </p1>
 </body>
 
