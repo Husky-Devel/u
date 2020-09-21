@@ -31,13 +31,13 @@
   </div>
 
 <div class="body">
-  This is some content
+ Welcome to my redesign of the school website click on one of the links above
 </div>
 <div class="body">
-  This is some content
+  
 </div>
 <div class="body">
-  This is some content
+  
 </div>
 </body>
 </html>
