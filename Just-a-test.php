@@ -19,8 +19,6 @@
         <a href="Contact.php">Contact</a>
         <a href="About-us.php">About </a> 
         <a href="Our-story.php">Reference</a> 
-        <a href="Test-hide.php">Hidden site 1</a>
-        <a href="dad.php">Hidden site 2</a>
         <a href="Where-are-we.php">Where are we?</a>
     </nav>
   </header>
