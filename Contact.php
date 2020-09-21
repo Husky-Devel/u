@@ -1,14 +1,4 @@
-</html>
-<link rel="stylesheet" type="text/css" href="CSS/styles.css" />
-<div class="wrapper">
-  <header role="banner">
-    <nav role="navigation">
-      <p>
-        <a href="index.php">
-          <img src="/Images/small-logo2.png" />
-        </a>
-      </p>
-      <!DOCTYPE html>
+ <!DOCTYPE html>
   <head>
     <title>West Rolleston</title>
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
