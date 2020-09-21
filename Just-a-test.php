@@ -14,11 +14,6 @@
         <a class="active" href="index.php">Home</a>
         <a href="Contact.php">Contact</a>
         <a href="About-us.php">About </a> <div class="dropdown">
-       <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
-      <div class="topnav">
-        <a class="active" href="index.php">Home</a>
-        <a href="Contact.php">Contact</a>
-        <a href="About-us.php">About </a> <div class="dropdown">
         <button class="dropbtn">My exprince at westrolleston
      
             <i class="fa fa-caret-down"></i>
