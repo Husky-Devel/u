@@ -6,7 +6,7 @@
       <p>
         <a href="index.php">
           <img src="/Images/small-logo2.png" />
-        < </a>
+        </a>
       </p>
 
       <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
