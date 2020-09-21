@@ -40,12 +40,7 @@
         <p1>
         <a href="index.php">
           <img src="/Images/Headerimg.jpg />
-        </a>
-          <h4>
-          Welcom to the wip site what you see on this site is still a wip (wip stands for work in proress) and is still being developed what you are seeing on this site is what i got done 2 weeks plz remeber that this is still a work in progress thx,Husky
-          </h4>
-        </p1>
-      </header>
+        
 
       <div class="line"></div>
     </header>
