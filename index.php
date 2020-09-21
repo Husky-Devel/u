@@ -1,6 +1,11 @@
-</html>
-<link rel="stylesheet" type="text/css" href="CSS/styles.css" />
-<div class="wrapper">
+<!DOCTYPE html>
+  <head>
+    <title>West Rolleston</title>
+    <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
+    <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
+  </head>
+<body>
+  <div class="wrapper">
   <header role="banner">
     <nav role="navigation">
       <p>
@@ -9,7 +14,6 @@
         </a>
       </p>
 
-      <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
       <div class="topnav">
         <a class="active" href="index.php">Home</a>
         <a href="Contact.php">Contact</a>
@@ -26,7 +30,6 @@
         </div>
         <div class="dropdown">
         <button class="dropbtn">Other
-     
             <i class="fa fa-caret-down"></i>
           </button>
           <dindexiv class="dropdown-content">
@@ -43,22 +46,9 @@
       <footer>
         <nav role="navigation">
           <ul class="nav-ul">
-
-        <
-
-      <html>
-      <header>
- 
-      </header>
-
-      <p>
-        
-
-
-
-     
-
-      </html>
+  </div>
+</body>
+</html>
 
     
 
