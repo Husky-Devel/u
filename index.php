@@ -39,7 +39,7 @@
    <header>
         <p1>
         <a href="index.php">
-          <img src="/Images/Headerimg.jpg />
+          <img src="/IMAGES/Headerimg.jpg />
         
 
       <div class="line"></div>
