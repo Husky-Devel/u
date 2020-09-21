@@ -1,15 +1,19 @@
-<html>
-<link rel="stylesheet" type="text/css" href="CSS/styles.css" />
-<div class="wrapper">
+<!DOCTYPE html>
+  <head>
+    <title>West Rolleston</title>
+    <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
+    <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
+  </head>
+<body>
+  <div class="wrapper">
   <header role="banner">
     <nav role="navigation">
       <p>
         <a href="index.php">
-          <img src="/Images/small-logo2.png" />
+          <img src="./Images/small-logo2.png" />
         </a>
       </p>
 
-      <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
       <div class="topnav">
         <a class="active" href="index.php">Home</a>
         <a href="Contact.php">Contact</a>
@@ -26,7 +30,6 @@
         </div>
         <div class="dropdown">
         <button class="dropbtn">Other
-     
             <i class="fa fa-caret-down"></i>
           </button>
           <dindexiv class="dropdown-content">
@@ -36,7 +39,23 @@
           </dindexiv>
         </div>
     </nav>
-  <p1><h4>
-  Hi welcome to my web site Rhus page is to share some of my exprins at WRPS before i lave for year 9
+  </header>
+  <main role="main">
+    <section class="sec-intro" role="section">W
+      <img src="./Images/Headerimg.jpg" alt="West Rolleston is a great school" />
+      <footer>
+        <div role="navigation">
+          <ul class="nav-ul">
+  </div>
 
+<div class="body">
+  This is some content
+</div>
+<div class="body">
+  This is some content
+</div>
+<div class="body">
+  This is some content
+</div>
+</body>
 </html>

@@ -10,7 +10,7 @@
     <nav role="navigation">
       <p>
         <a href="index.php">
-          <img src="/Images/small-logo2.png" />
+          <img src="./Images/small-logo2.png" />
         </a>
       </p>
 
@@ -41,12 +41,22 @@
     </nav>
   </header>
   <main role="main">
-    <section class="sec-intro" role="section">
-      <img src="Images/Headerimg.jpg" alt="Images/Headerimg.jpg/>" />
+    <section class="sec-intro" role="section">W
+      <img src="./Images/Headerimg.jpg" alt="West Rolleston is a great school" />
       <footer>
-        <nav role="navigation">
+        <div role="navigation">
           <ul class="nav-ul">
   </div>
+
+<div class="body">
+  This is some content
+</div>
+<div class="body">
+  This is some content
+</div>
+<div class="body">
+  This is some content
+</div>
 </body>
 </html>
 

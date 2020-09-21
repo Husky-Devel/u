@@ -8,7 +8,22 @@
           <img src="/Images/small-logo2.png" />
         </a>
       </p>
-      <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
+      <!DOCTYPE html>
+  <head>
+    <title>West Rolleston</title>
+    <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
+    <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
+  </head>
+<body>
+  <div class="wrapper">
+  <header role="banner">
+    <nav role="navigation">
+      <p>
+        <a href="index.php">
+          <img src="./Images/small-logo2.png" />
+        </a>
+      </p>
+
       <div class="topnav">
         <a class="active" href="index.php">Home</a>
         <a href="Contact.php">Contact</a>
@@ -25,7 +40,6 @@
         </div>
         <div class="dropdown">
         <button class="dropbtn">Other
-     
             <i class="fa fa-caret-down"></i>
           </button>
           <dindexiv class="dropdown-content">
@@ -34,6 +48,7 @@
             <a href="Where-are-we.php">Where are we?</a>
           </dindexiv>
         </div>
+
     </nav>
   </header>
   <main role="main">
