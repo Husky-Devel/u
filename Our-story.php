@@ -32,6 +32,8 @@
           <ul class="nav-ul">
   </div>
     </nav>
-<img src="Images/Headerimg.jpg" alt="Images/logo.png/>" />
+<div>
+  Thank you to the real westrolleston site that can be found here at www.westrolleston.school.nz all the imeges are from there
+</div>
 
 </html>
