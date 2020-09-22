@@ -35,7 +35,7 @@
   <main role="main">
     <class="sec-intro" role="section">
       <img src="Images/logo.png" alt="Images/Headerimg.jpg/>" />
-      <heder>
+      <div>
         <p>
           Contact
         </p>
@@ -102,7 +102,7 @@
           </body>
           </h4>
 
-        </body>
+      </div>
 
 
         </body>
