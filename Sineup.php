@@ -47,8 +47,9 @@
     <p>By creating an account you agree to our <a href="#" style="color:dodgerblue">Terms & Privacy</a>.</p>
 
     <div class="clearfix">
-      <button type="button" class="cancelbtn">Cancel</button>
-      <button type="submit" class="signupbtn">Sign Up</button>
+      <a href="index.php">cancel</a>
+      <a href="sineupfinish.php">Sign up</a>
+
     </div>
   </div>
 </form> 
