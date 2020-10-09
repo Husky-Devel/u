@@ -21,6 +21,7 @@
         <a href="Our-story.php">Reference</a> 
         <a href="Where-are-we.php">Where are we?</a>
         <a href="Test-hide.php">The ambassadors</a>
+        <a href="Sineup.php ">Sign up</a>
     </nav>
   </header>
   <main role="main">
