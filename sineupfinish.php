@@ -1,9 +1,9 @@
 <!DOCTYPE php>
-    $serverName = "your_server.database.windows.net"; // update me
+    $serverName = "westrolleston-huskys-website-1-database.database.windows.net"; // update me
     $connectionOptions = array(
-        "Database" => "your_database", // update me
-        "Uid" => "your_username", // update me
-        "PWD" => "your_password" // update me
+        "Database" => "westrolleston-huskys-website-1-database.database.windows.net", // update me
+        "Uid" => "Husky", // update me
+        "PWD" => "Westrollestonschool" // update me
     );
     //Establishes the connection
     $conn = sqlsrv_connect($serverName, $connectionOptions);
