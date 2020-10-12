@@ -1,4 +1,4 @@
-<!DOCTYPE php>
+<php
     $serverName = "westrolleston-huskys-website-1-database.database.windows.net"; // update me
     $connectionOptions = array(
         "Database" => "westrolleston-huskys-website-1-database.database.windows.net", // update me
@@ -14,9 +14,10 @@
     $getResults= sqlsrv_query($conn, $tsql);
     echo ("Reading data from table" . PHP_EOL);
     if ($getResults == FALSE)
+    westrolleston-huskys-website-1-database.database.windows.net
         echo (sqlsrv_errors());
     while ($row = sqlsrv_fetch_array($getResults, SQLSRV_FETCH_ASSOC)) {
      echo ($row['CategoryName'] . " " . $row['ProductName'] . PHP_EOL);
     }
-    sqlsrv_free_stmt($getResults);
-</php>
+    sqlsrv_free_stmt($getResult
+
