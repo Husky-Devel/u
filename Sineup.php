@@ -60,22 +60,25 @@
 
 </html>
 
-<?php  
-    if (isset($_POST['submit'])) {  
+<php>  
+      
+      <header>
+      <if> (isset($_POST['submit'])) {  
         extract($_POST);  
         $servername = "localhost ";  
         $username   = "Husky";  
         $password   = "Westrollestonschool1";  
         $dbname     = "westrolleston-huskys-website-1-database";  
         // Create connection  
-        $conn       = new mysqli($servername, $username, $password, $dbname);  
+        $conn       = new mysqli($servername, $username, $password, $dbname); 
         // Check connection  
         if ($conn->connect_error) {  
             die("Connection failed: " . $conn->connect_error);  
-        }  
-        $sql = "INSERT INTO `table_name` (fname,uname,lname,address,cno)  
-      
-    VALUES ('$fname','$uname','$lname','$adress','$cno')";  
+        }
+        $sql = "INSERT INTO `table_name` (fname,uname,lname,address,cno) 
+       </if>
+    
+     <VALUES>('$fname','$uname','$lname','$adress','$cno')";  
         if ($conn->query($sql) === TRUE) {  
             header('Location: login.php');  
         } else {  
@@ -83,4 +86,6 @@
         }  
         $conn->close();  
     }  
-    ?> 
+     </VALUES> 
+    </header>
+    </php>

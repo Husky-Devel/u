@@ -1,23 +1,47 @@
-<php
-    $serverName = "westrolleston-huskys-website-1-database.database.windows.net"; // update me
-    $connectionOptions = array(
-        "Database" => "westrolleston-huskys-website-1-database.database.windows.net", // update me
-        "Uid" => "Husky", // update me
-        "PWD" => "Westrollestonschool" // update me
-    );
-    //Establishes the connection
-    $conn = sqlsrv_connect($serverName, $connectionOptions);
-    $tsql= "SELECT TOP 20 pc.Name as CategoryName, p.name as ProductName
-         FROM [SalesLT].[ProductCategory] pc
-         JOIN [SalesLT].[Product] p
-         ON pc.productcategoryid = p.productcategoryid";
-    $getResults= sqlsrv_query($conn, $tsql);
-    echo ("Reading data from table" . PHP_EOL);
-    if ($getResults == FALSE)
-    westrolleston-huskys-website-1-database.database.windows.net
-        echo (sqlsrv_errors());
-    while ($row = sqlsrv_fetch_array($getResults, SQLSRV_FETCH_ASSOC)) {
-     echo ($row['CategoryName'] . " " . $row['ProductName'] . PHP_EOL);
-    }
-    sqlsrv_free_stmt($getResult
+<head>
+    <title>West Rolleston</title>
+    <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
+    <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
+  </head>
+<body>
+  <div class="wrapper">
+  <header role="banner">
+    <nav role="navigation">
+      <p>
+        <a href="index.php">
+          <img src="./Images/small-logo2.png" />
+        </a>
+      </p>
 
+      <div class="topnav">
+        <a class="active" href="index.php">Home</a>
+        <a href="Contact.php">Contact</a>
+        <a href="About-us.php">About </a> 
+        <a href="Our-story.php">Reference</a> 
+        <a href="Where-are-we.php">Where are we?</a>
+        <a href="Sineup.php ">Sign up</a>
+    </nav>
+  </header>
+  <main role="main">
+    <section class="sec-intro" role="section">
+      <img src="./Images/Headerimg.jpg" alt="West Rolleston is a great school" />
+      <footer>
+        <div role="navigation">
+          <ul class="nav-ul">
+  </div>
+
+<div class="body">
+Thank for signing up!
+</div>
+<div class="body">
+  
+</div>
+<div class="body">
+  
+</div>
+</body>
+</html>
+
+
+
+    
