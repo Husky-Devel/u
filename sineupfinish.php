@@ -37,12 +37,8 @@ Thank for signing up!
   
 </div>
 <div class="body">
-  
-</div>
-</body>
-</html>
 
-<? php>
+<?php
 $host = 'westrolleston-huskys-website-1-database.database.windows.net';
 $username = 'Husky';
 $password = ' Westrollestonschool1';
@@ -67,7 +63,12 @@ printf("Table created\n");
 
 
 mysqli_close($conn);
-</php>
+?php>
+  
+</div>
+</body>
+</html>
+
 
 
     
