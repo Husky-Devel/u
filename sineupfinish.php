@@ -48,7 +48,7 @@ $username = 'Husky';
 $password = ' Westrollestonschool1';
 $db_name = 'westrolleston-huskys-website-1-database.database.windows.net';
 
-//Establishes the connection
+
 $conn = mysqli_init();
 
 printf("hello")
@@ -58,14 +58,14 @@ printf("sory");
 die('Failed to connect to MySQL: '.mysqli_connect_error());
 }
 
-// Run the create table query
+
 if (mysqli_query($conn, '
 select * from table1;
 ')) {
 printf("Table created\n");
 }
 
-//Close the connection
+
 mysqli_close($conn);
 </php>
 
