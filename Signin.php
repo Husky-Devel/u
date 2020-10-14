@@ -1,7 +1,9 @@
-<head>
+<!DOCTYPE html> 
+    <header>
     <title>West Rolleston</title>
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
     <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
+    <link rel="stylesheet" type="text/css" href="CSS/signin.css" />
   </head>
 <body>
   <div class="wrapper">
@@ -29,46 +31,36 @@
         <div role="navigation">
           <ul class="nav-ul">
   </div>
-
-<div class="body">
-Thank for signing up!
-</div>
-<div class="body">
-  
-</div>
-<div class="body">
-
-<?php
-$host = 'westrolleston-huskys-website-1-database.database.windows.net';
-$username = 'Husky';
-$password = ' Westrollestonschool1';
-$db_name = 'westrolleston-huskys-website-1-database.database.windows.net';
-
-
-$conn = mysqli_init();
-
-printf("")
-mysqli_real_connect($conn, $host, $username, $password, $db_name, 3306);
-if (mysqli_connect_errno($conn)) {
-printf("sory");
-die('Failed to connect to MySQL: '.mysqli_connect_error());
-}
-
-
-if (mysqli_query($conn, '
-select * from table1;
-')) {
-printf("Table created\n");
-}
-
-
-mysqli_close($conn);
-?php>
-  
-</div>
-</body>
-</html>
-
-
-
     
+    </header>
+    <Body>
+    <form action="action_page.php" method="post">
+  <div class="imgcontainer">
+    <img src="img_avatar2.png" alt="Avatar" class="avatar">
+  </div>
+
+  <div class="container">
+    <label for="uname"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+
+    <button type="submit">Login</button>
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+  </div>
+
+  <div class="container" style="background-color:#f1f1f1">
+    <button type="button" class="cancelbtn">Cancel</button>
+    <span class="psw">Forgot <a href="#">password?</a></span>
+  </div>
+</form> 
+    
+    </Body>
+
+
+
+
+</html>
