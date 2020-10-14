@@ -42,34 +42,32 @@ Thank for signing up!
 </body>
 </html>
 
-<php>  
-      
-      <header>
-      <if> (isset($_POST['submit'])) {  
-        extract($_POST);  
-        $servername = "localhost ";  
-        $username   = "Husky";  
-        $password   = "Westrollestonschool1";  
-        $dbname     = "westrolleston-huskys-website-1-database";  
-        // Create connection  
-        $conn       = new mysqli($servername, $username, $password, $dbname); 
-        // Check connection  
-        if ($conn->connect_error) {  
-            die("Connection failed: " . $conn->connect_error);  
-        }
-        $sql = "INSERT INTO `table_name` (fname,uname,lname,address,cno) 
-       </if>
-    
-     <VALUES>('$fname','$uname','$lname','$adress','$cno')";  
-        if ($conn->query($sql) === TRUE) {  
-            header('Location: login.php');  
-        } else {  
-            echo "Error: " . $sql . "<br>" . $conn->error;  
-        }  
-        $conn->close();  
-    }  
-     </VALUES> 
-    </header>
-    </php>
+<? php>
+$host = 'westrolleston-huskys-website-1-database.database.windows.net';
+$username = 'Husky';
+$password = ' Westrollestonschool1';
+$db_name = 'westrolleston-huskys-website-1-database.database.windows.net';
+
+//Establishes the connection
+$conn = mysqli_init();
+
+printf("hello")
+mysqli_real_connect($conn, $host, $username, $password, $db_name, 3306);
+if (mysqli_connect_errno($conn)) {
+printf("sory");
+die('Failed to connect to MySQL: '.mysqli_connect_error());
+}
+
+// Run the create table query
+if (mysqli_query($conn, '
+select * from table1;
+')) {
+printf("Table created\n");
+}
+
+//Close the connection
+mysqli_close($conn);
+</php>
+
 
     
