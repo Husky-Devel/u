@@ -30,7 +30,7 @@
   <meta name="google-signin-client_id" content="606387351884-maak4t0lmlpn57i8iiumkh4p0u62gtjc.apps.googleusercontent.com">
 
   <div class="g-signin2" data-onsuccess="onSignIn"></div>
-  Help
+  
 
 </body>
 
