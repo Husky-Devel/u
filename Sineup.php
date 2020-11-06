@@ -25,6 +25,19 @@
   <!-- Initialize Firebase -->
   <script src="/__/firebase/init.js"></script>
 
+  <script> // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  var firebaseConfig = {
+    apiKey: "AIzaSyCPzyujISZuklglnhTz1o_4TSaZpriwyqA",
+    authDomain: "key-reference-294122.firebaseapp.com",
+    databaseURL: "https://key-reference-294122.firebaseio.com",
+    projectId: "key-reference-294122",
+    storageBucket: "key-reference-294122.appspot.com",
+    messagingSenderId: "606387351884",
+    appId: "1:606387351884:web:6635c01df1d7a0e1ae9fe9",
+    measurementId: "G-M7DWVBYRQP"
+  }; </script>
+
 
 
   </head>
