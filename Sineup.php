@@ -7,15 +7,24 @@
     <script src="https://apis.google.com/js/platform.js" async defer></script>
 
     
-    <script>
-    function onSignIn(googleUser) {
-  var profile = googleUser.getBasicProfile();
-  console.log('ID: ' + profile.getId()); // Do not send to your backend! Use an ID token instead.
-  console.log('Name: ' + profile.getName());
-  console.log('Image URL: ' + profile.getImageUrl());
-  console.log('Email: ' + profile.getEmail()); // This is null if the 'email' scope is not present.
-} 
-</script>
+   
+  <!-- Insert these scripts at the bottom of the HTML, but before you use any Firebase services -->
+
+  <!-- Firebase App (the core Firebase SDK) is always required and must be listed first -->
+  <script src="/__/firebase/8.0.0/firebase-app.js"></script>
+
+  <!-- If you enabled Analytics in your project, add the Firebase SDK for Analytics -->
+  <script src="/__/firebase/8.0.0/firebase-analytics.js"></script>
+
+  <!-- Add Firebase products that you want to use -->
+  <script src="/__/firebase/8.0.0/firebase-auth.js"></script>
+  <script src="/__/firebase/8.0.0/firebase-firestore.js"></script>
+
+    <!-- Previously loaded Firebase SDKs -->
+
+  <!-- Initialize Firebase -->
+  <script src="/__/firebase/init.js"></script>
+
 
 
   </head>
@@ -39,9 +48,6 @@
     </nav>
 </head>
 <body>
-  <meta name="google-signin-client_id" content="606387351884-maak4t0lmlpn57i8iiumkh4p0u62gtjc.apps.googleusercontent.com">
-
-  <div class="g-signin2" data-onsuccess="onSignIn"></div>
   
 
 </body>
