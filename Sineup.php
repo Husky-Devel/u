@@ -38,6 +38,10 @@
     measurementId: "G-M7DWVBYRQP"
   }; </script>
 
+<script src="https://cdn.firebase.com/js/simple-login/1.6.4/firebase-simple-login.js"></script>
+
+<script src="https://cdn.firebase.com/js/client/1.0.21/firebase.js"></script>
+
 
 
   </head>
