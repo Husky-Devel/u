@@ -101,6 +101,67 @@
   }
 } </script>
 
+<form action="/user/login?destination=login_redirect"
+      method="post"
+      id="user-login">
+<div>
+    <div class="form-item">
+        <label for="edit-name">
+            Username:
+            <span class="form-required"
+                  title="This field is required.">
+                  *
+            </span>
+        </label>
+        <input type="text"
+               maxlength="60"
+               name="name"
+               id="edit-name"
+               size="60"
+               value=""
+               tabindex="1"
+               class="form-text required"
+        />
+        <div class="description">
+            Enter your username.
+        </div>
+    </div>
+    <div class="form-item">
+        <label for="edit-pass">
+            Password:
+            <span class="form-required"
+                title="This field is required.">
+                *
+            </span>
+        </label>
+        <input type="password"
+               name="pass"
+               id="edit-pass"
+               size="60"
+               tabindex="2"
+               class="form-text required"
+        />
+        <div class="description">
+            Enter the password that accompanies
+            your username.
+        </div>
+    </div>
+    <input type="hidden"
+           name="form_id"
+           id="edit-user-login"
+           value="user_login"
+    />
+    <input type="submit"
+           name="op"
+           id="edit-submit"
+           value="Log in"
+           tabindex="3"
+           class="form-submit"
+    />
+
+</div>
+</form>
+
 
   </head>
 <body>
