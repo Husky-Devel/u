@@ -20,7 +20,7 @@
         <a href="Sineup.php ">Sign up</a>
     </nav>
     <link href="/CSS/Wrapper.css" rel="stylesheet" type="text/css" />
-    <iframe src="https://youtube.com/" style="border:0px #ffffff none;" name="Google sheets" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="1920px" width="1080px" allowfullscreen></iframe>
+    <iframe src="https://youtube.com" style="border:0px #ffffff none;" name="Google sheets" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="1920px" width="1080px" allowfullscreen></iframe>
 </head>
 
 <body></body>
