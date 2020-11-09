@@ -42,6 +42,64 @@
 
 <script src="https://cdn.firebase.com/js/client/1.0.21/firebase.js"></script>
 
+<script>{
+  "contactdb" :{
+    "profiles" : {
+      "1" : {
+        "email" : "pankaj@time2hack.com",
+        "location" : {
+          "city" : "Gurgaon",
+          "state" : "Haryana",
+          "zip" : "122001"
+        },
+        "name" : "Pankaj Patel"
+      }
+    },
+    "contacts" : {
+      "1" : {
+        "-Jl9cQXgm_6YkdC1xgCK" : {
+          "name" : "Pankaj",
+          "email" : "pankaj@pankaj.pro",
+          "location" : {
+            "city" : "Gurgaon",
+            "state" : "Haryana",
+            "zip" : "122001"
+          },
+        },
+      },
+    }
+  }
+}
+ </script>
+
+<script> {
+
+{
+  "rules": {
+    "profiles": {
+      "$uid": {
+        // grants write access to the owner of this user account
+        // whose uid must exactly match the key ($uid)
+        ".write": "auth !== null && auth.uid === $uid",
+
+        // grants read access to any user who is logged in
+        // with an email and password
+        ".read": "auth !== null && auth.provider === 'password'"
+      }
+    },
+    "conatcts":{
+      "$uid": {
+        // grants write access to the owner of this user account
+        // whose uid must exactly match the key ($uid)
+        ".write": "auth !== null && auth.uid === $uid",
+
+        // grants read access to any user who is logged in
+        // with an email and password
+        ".read": "auth !== null && auth.provider === 'password'"
+      }
+    }
+  }
+} </script>
 
 
   </head>
