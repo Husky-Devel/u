@@ -21,28 +21,22 @@
         <a href="Our-story.php">Reference</a> 
         <a href="Where-are-we.php">Where are we?</a>
         <a href="Indev.php">Sign up</a>
-        
+        <a href="Wrapper.php ">GS Wrapper</a>
     </nav>
   </header>
-  <main role="main">
-    <section class="sec-intro" role="section">
-      <img src="./Images/Headerimg.jpg" alt="West Rolleston is a great school" />
-      <footer>
-        <div role="navigation">
-          <ul class="nav-ul">
+ 
   </div>
 
 <div class="body">
- Welcome to my redesign of the school website click on one of the links above.
+ This page is in develment plz go back to the main home page this site will be up and wornking soon if want to see the sit click the link belowe
 </div>
 <div class="body">
-  
+<a href=" Sineup.php ">Sign up IN DEV (Doses nothing)</a>
 </div>
 <div class="body">
+<a href=" Wrapper ">Just another test site check it out in Reference.php or click here</a>
+</div>
   
 </div>
 </body>
 </html>
-
-    
-
