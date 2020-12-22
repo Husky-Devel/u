@@ -23,5 +23,12 @@
     <iframe src="https://westrolleston.school.nz" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="900px" width="1000px" allowfullscreen></iframe>
 </head>
 
+<footer>
+        <nav role="navigation">
+
+        </nav>
+        <p class="copy">&copy; Made by Husky,hosting by Microsoft azure      </p>
+      </footer>
+      
 <body></body>
 </html>

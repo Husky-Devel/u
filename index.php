@@ -26,7 +26,7 @@
   </header>
   <main role="main">
     <section class="sec-intro" role="section">
-      <img src="./Images/Headerimg.jpg" alt="West Rolleston is a great school" />
+      <img src="./Images/Headerimg.jpg" alt="West Rolleston is a great school but this img could not be found" />
       <footer>
         <div role="navigation">
           <ul class="nav-ul">
@@ -40,6 +40,13 @@
 </div>
 <div class="body">
   
+<footer>
+        <nav role="navigation">
+
+        </nav>
+        <p class="copy">&copy; Made by Husky,hosting by Microsoft azure      </p>
+      </footer>
+      
 </div>
 </body>
 </html>

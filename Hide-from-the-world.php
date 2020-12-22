@@ -43,5 +43,11 @@
     This little hidden site is awsome!
   </marquee>
 </marquee>
+<footer>
+        <nav role="navigation">
+
+        </nav>
+        <p class="copy">&copy; Made by Husky,hosting by Microsoft azure      </p>
+      </footer>
 </body>
 </html>

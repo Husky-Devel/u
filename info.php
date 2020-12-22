@@ -1,3 +1,11 @@
-<?php
+<html>
 phpinfo(Test of this web sever);
-?>
+
+<footer>
+        <nav role="navigation">
+
+        </nav>
+        <p class="copy">&copy; Made by Husky,hosting by Microsoft azure      </p>
+      </footer>
+
+</html>
