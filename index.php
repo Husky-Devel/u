@@ -22,6 +22,16 @@
         <a href="Where-are-we.php">Where are we?</a>
         <a href="Indev.php">Sign up</a>
         
+        <style>
+body {
+  background-image: url('./Images/small-logo2.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style> 
+
+
     </nav>
   </header>
   <main role="main">
