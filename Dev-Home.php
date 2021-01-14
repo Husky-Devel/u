@@ -44,6 +44,15 @@
   </div>
 </div>
 
+<style>
+body {
+  background-image: url('/Images/Headerimg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style> 
+
 <div class="body">
  Welcome to my redesign of the school website click on one of the links above.
 </div>

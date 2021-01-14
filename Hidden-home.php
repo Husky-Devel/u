@@ -35,5 +35,15 @@
             <a href="Where-are-we.php">Where are we?</a>
           </dindexiv>
         </div>
+<<<<<<< HEAD
     </nav>
 </html>
+=======
+        <footer>
+        <nav role="navigation">
+
+        </nav>
+        <p class="copy">&copy; Made by Husky,hosting by Microsoft azure      </p>
+      </footer>
+    </nav>
+>>>>>>> c93f0f56ee855489451fb0cc98289842bbb97826

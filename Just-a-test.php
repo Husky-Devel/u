@@ -39,5 +39,14 @@
 <div class="body">
   This is some content
 </div>
+
+<footer>
+        <nav role="navigation">
+
+        </nav>
+        <p class="copy">&copy; Made by Husky,hosting by Microsoft azure      </p>
+      </footer>
+
+
 </body>
 </html>

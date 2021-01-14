@@ -40,5 +40,12 @@
     </iframe>
     
     
-    <div class="showtheway"><a href="https://showtheway.io/to/-43.606891,172.355965?name=West%20Rolleston%20Primary%20School" target="_blank" title="Show the Way to West Rolleston Primary School with your favorite navigation application">Show the Way</a></div><script src="https://showtheway.io/w.js" async="async" type="text/javascript"></script>
-    </html>
+    <footer>
+        <nav role="navigation">
+
+        </nav>
+        <p class="copy">&copy; Made by Husky,hosting by Microsoft azure      </p>
+      </footer>
+
+      
+   </html>

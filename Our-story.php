@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+  <html>
   <head>
     <title>West Rolleston</title>
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
@@ -27,6 +28,11 @@
     </head>
     
     <body></body>
-    </html>
+    <footer>
+        <nav role="navigation">
+
+        </nav>
+        <p class="copy">&copy; Made by Husky,hosting by Microsoft azure      </p>
+      </footer>
 
 </html>
