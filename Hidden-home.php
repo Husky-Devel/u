@@ -1,5 +1,11 @@
 <html>
 <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
+<style>
+div {
+  background-image: url('./Images/Headerimg.jpg');
+}
+</style> 
+
 <div class="wrapper">
   <header role="banner">
     <nav role="navigation">
