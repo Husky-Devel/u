@@ -24,7 +24,7 @@
         
         <style>
 body {
-  background-image: url('./Images/small-logo2.png');
+  background-image: url('./Images/Headerimg.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
