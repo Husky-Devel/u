@@ -16,12 +16,12 @@
       </p>
 
       <div class="topnav">
-        <a class="active" href="index.php">Home</a>
-        <a href="Contact.php">Contact</a>
-        <a href="About-us.php">About </a> 
-        <a href="Our-story.php">Reference</a> 
-        <a href="Where-are-we.php">Where are we?</a>
-        <a href="Sineup.php ">Sign up</a>
+        <a class="active" href="index.aspx">Home</a>
+        <a href="Contact.aspx">Contact</a>
+        <a href="About-us.aspx">About </a> 
+        <a href="Our-story.aspx">Reference</a> 
+        <a href="Where-are-we.aspx">Where are we?</a>
+        <a href="Sineup.aspx ">Sign up</a>
     </nav>
   </header>
   <main role="main">
