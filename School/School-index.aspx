@@ -24,7 +24,7 @@
         <a href="Test-hide.aspx">The ambassadors</a>
         <style>
 body {
-  background-image: url('./Images/Headerimg.jpg');
+  background-image: url('./Images/School-backround.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
