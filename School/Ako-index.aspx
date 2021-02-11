@@ -37,7 +37,7 @@ body {
   </header>
   <main role="main">
     <section class="sec-intro" role="section">
-      <img src="" alt="West Rolleston is a great school but this img could not be found" />
+      <img src="" alt="Ther is no more img here soming will be lookout" />
       <footer>
         <div role="navigation">
           <ul class="nav-ul">
