@@ -1,5 +1,15 @@
 <!DOCTYPE html>
   <head>
+        <style>
+body {
+  background-image: url('./Images/School-backround.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style> 
+
+
     <title>West Rolleston</title>
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
     <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
@@ -30,7 +40,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
-</style> 
+        </style> 
 
 
     </nav>
