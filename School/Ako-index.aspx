@@ -20,7 +20,7 @@ body {
     <nav role="navigation">
       <p>
         <a href="index.aspx">
-          <img src="./Images/small-logo2.png" />
+          <img src="Images/rollestons_school_logo_vertical.png" class="auto-style1" />
         </a>
       </p>
 
@@ -40,6 +40,10 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+            .auto-style1 {
+                height: 204px;
+                width: 212px;
+            }
         </style> 
 
 
