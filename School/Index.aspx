@@ -1,5 +1,15 @@
 <!DOCTYPE html>
   <head>
+        <style>
+body {
+  background-image: url('./Images/School-backround.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style> 
+
+
     <title>West Rolleston</title>
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
     <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
@@ -10,34 +20,38 @@
     <nav role="navigation">
       <p>
         <a href="index.aspx">
-          <img src="./Images/small-logo2.png" />
+          <img src="Images/rollestons_school_logo_vertical.png" class="auto-style1" />
         </a>
       </p>
 
       <div class="topnav">
-        <a class="active" href="index.aspx">Home</a>
-        <a href="Contact.aspx">Contact</a>
-        <a href="About-us.aspx">About </a> 
-        <a href="Our-story.aspx">Reference</a> 
-        <a href="Where-are-we.aspx">Where are we?</a>
-        <a href="Indev.aspx">Sign up</a>
-        <a href="Test-hide.aspx">The ambassadors</a>
-         <a href="\School\Index.aspx">School part </a>
+        <div class="dropdown">
+          <button class="dropbtn">Ako</button>
+          <div class="dropdown-content">
+            <a href="/Ako-index.aspx"Ako main </a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+          </div>
+        </div>
         <style>
 body {
-  background-image: url('./Images/Headerimg.jpg');
+  background-image: url('./Images/School-backround.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
-</style> 
+            .auto-style1 {
+                height: 204px;
+                width: 212px;
+            }
+        </style> 
 
 
     </nav>
   </header>
   <main role="main">
     <section class="sec-intro" role="section">
-      <img src="" alt="West Rolleston is a great school but this img could not be found" />
+      <img src="" alt="Ther is no more img here soming will be lookout" />
       <footer>
         <div role="navigation">
           <ul class="nav-ul">
