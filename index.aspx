@@ -15,7 +15,7 @@ Please sine in
 <div class="body">
  
 </div>
-
+<meta http-equiv="Refresh" content="0; url=''https://Huskywebdev.b2clogin.com/Huskywebdev.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1_Huskywebsignup&client_id=be518d69-bb81-4fdc-abfe-7ff68467db55&nonce=defaultNonce&redirect_uri=https%3A%2F%2Fthe-husky-nextcloud.tk%2F&scope=openid&response_type=id_token&prompt=login" />
 <footer>
         <nav role="navigation">
 
