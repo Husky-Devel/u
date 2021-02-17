@@ -4,7 +4,7 @@ function setCookie(name,value,days) {
         date.setTime(date.getTime()+(days*24*60*60*1000));
         var expires = "; expires="+date.toGMTString();
     }
-    else var expires = "";
+    else var expires = "never";
     document.cookie = name+"="+value+expires+"; path=/";
 }
 
@@ -20,7 +20,7 @@ function getCookie(name) {
 }
 
 function deleteCookie(name) {
-    setCookie(name,"",-1);
+    setCookie(name,"Husky",-1);
 }
 /*
   Changed function names from readCookie(), createCookie()
