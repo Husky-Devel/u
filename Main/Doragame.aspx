@@ -3,7 +3,7 @@
 <head>
 <title>How to create HTML5 Memory Game - Bytutorial.com</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" type="text/css" rel="stylesheet"/>
-<link href="game.css" type="text/css" rel="stylesheet"/>
+<link href="/CSS/Doragame.css" type="text/css" rel="stylesheet"/>
 </head>
 <body>
 <div id="canvas-game">
@@ -19,7 +19,7 @@
 	<button id="btnRestart" type="button">Restart</button>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="game-logic.js"></script>
+<script src="/doragame.js"></script>
 
 </body>
 </html>
