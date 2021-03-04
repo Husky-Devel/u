@@ -24,7 +24,7 @@
     <iframe src="https://westrolleston.school.nz" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="900px" width="1000px" allowfullscreen></iframe>
 
     <div> <link href="/CSS/Wrapper.css" rel="stylesheet" type="text/css" />
-    <iframe src="https://Youtube.com" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="900px" width="1000px" allowfullscreen></iframe> </div>
+    <iframe src="https://westrollestonschool.nz" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="900px" width="1000px" allowfullscreen></iframe> </div>
 </head>
 
 <footer>
