@@ -24,10 +24,21 @@
             <a href="Indev.aspx">Sign up</a>
             <a href="Test-hide.aspx">The ambassadors</a>
         </nav>
-        <div id="my-store-50737319"></div>
+       
+        <div id="my-search-50737319"></div>
+<div>
+<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?50737319&data_platform=code&data_date=2021-03-06" charset="utf-8"></script>
+<script type="text/javascript"> xSearch("id=my-search-50737319"); </script>
+</div>
+        
+        
+        
+        <div class="ec-cart-widget"></div>
         <div>
-        <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?50737319&data_platform=code&data_date=2021-03-06" charset="utf-8"></script><script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-50737319");</script>
+        <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?50737319&data_platform=code&data_date=2021-03-06" charset="utf-8"></script>
+        <script type="text/javascript">Ecwid.init();</script>
         </div>
+
 
         <div id="my-categories-50737319"></div>
 <div>
@@ -35,11 +46,12 @@
 <script type="text/javascript"> xCategoriesV2("id=my-categories-50737319"); </script>
 </div>
 
-<div class="ec-cart-widget"></div>
+<div id="my-store-50737319"></div>
 <div>
-<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?50737319&data_platform=code&data_date=2021-03-06" charset="utf-8"></script>
-<script type="text/javascript">Ecwid.init();</script>
+<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?50737319&data_platform=code&data_date=2021-03-06" charset="utf-8"></script><script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-50737319");</script>
 </div>
+
+
 
 <div id="my-search-50737319"></div>
 <div>
