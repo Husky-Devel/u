@@ -52,7 +52,7 @@ body {
   background-image: url('./Images/small-logo2.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: fit;
 }
 </style> 
 
