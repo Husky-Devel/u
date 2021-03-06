@@ -10,7 +10,7 @@
     <nav role="navigation">
       <p>
         <a href="index.aspx">
-          <img src="./Images/small-logo2.png" />
+          <img src="" />
         </a>
       </p>
     <!-- The core Firebase JS SDK is always required and must be listed first -->
@@ -49,7 +49,7 @@
         <a href="Store.aspx">Store </a>
         <style>
 body {
-  background-image: url('./Images/Headerimg.jpg');
+  background-image: url('./Images/small-logo2.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
