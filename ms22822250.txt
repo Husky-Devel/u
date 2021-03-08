@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
-  "Domain": "the-husky-nextcloud.tk",
-  "Id": "49e0e443-480d-4501-babb-8a95e7bf6736"
-}
