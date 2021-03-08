@@ -47,14 +47,13 @@
     What is the purpose of this site?
   </p>  
   <p>
-    The purpose of this site was to 1. show off my coding skills 2. try to show that HTML is better than google sites and move away from it.
+   What Is the purpose.
   </p>
   <P>
-  My experience at westrolleston
+ 
   </P>
   <p>
-    Hi, welcome to my website. I wanted to share some of my experience at WRPS with you before I leave for year 9. 
-    Let's start from the beginning so a brief and short thing is I'm from the USA and my name is Peter and I like to go by Husky because I used to have 3 Huskys, to sum up, my experience at WRPS, Well there's been up and downs but the teachers are always there to help and will solve problems. Its pretty fun when we do 2 whanau group games and I like the open learning.
+  
   </p>
   </div>
   </body>
