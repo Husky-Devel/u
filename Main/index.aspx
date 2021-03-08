@@ -44,7 +44,7 @@
         <a href="About-us.aspx">About </a> 
         <a href="https://github.com/Husky-Devel/husky-webdev-websiterepo">Sorce code</a> 
         <a href="Where-are-we.aspx">Where are we?</a>
-        <a href="/Dora/">Game</a>
+        <a href="/main/Dora/">Game</a>
         <a href="Test-hide.aspx">The ambassadors</a>
         <a href="Store.aspx">Store </a>
         <style>
