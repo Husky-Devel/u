@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<!DOCTYPE html>
+<html>
+  <!DOCTYPE html>
   <head>
     <title>West Rolleston</title>
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
@@ -43,7 +44,6 @@
         <a class="active" href="index.aspx">Home</a>
         <a href="Contact.aspx">Contact</a>
         <a href="About-us.aspx">About </a> 
-        <a href="Our-story.aspx">Reference</a> 
         <a href="Where-are-we.aspx">Where are we?</a>
         <a href="Indev.aspx">Sign up</a>
         <a href="Test-hide.aspx">The ambassadors</a>
@@ -55,7 +55,7 @@ body {
   background-attachment: fixed;
   background-size: fit;
 }
-</style> 
+</style>  
 
 <div class="body">
  This page is in develment plz go back to the main home page this site will be up and wornking soon if want to see the sit click the link belowe

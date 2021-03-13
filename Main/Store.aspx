@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<html>
+  <!DOCTYPE html>
   <head>
     <title>West Rolleston</title>
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
@@ -42,7 +44,6 @@
         <a class="active" href="index.aspx">Home</a>
         <a href="Contact.aspx">Contact</a>
         <a href="About-us.aspx">About </a> 
-        <a href="Our-story.aspx">Reference</a> 
         <a href="Where-are-we.aspx">Where are we?</a>
         <a href="Indev.aspx">Sign up</a>
         <a href="Test-hide.aspx">The ambassadors</a>
@@ -65,11 +66,7 @@ body {
         
         
         
-        <div class="ec-cart-widget"></div>
-        <div>
-        <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?50737319&data_platform=code&data_date=2021-03-06" charset="utf-8"></script>
-        <script type="text/javascript">Ecwid.init();</script>
-        </div>
+        
 
 
         <div id="my-categories-50737319"></div>
