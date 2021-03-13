@@ -5,7 +5,18 @@
     <title>West Rolleston</title>
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
     <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-192064031-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-192064031-1');
+</script>
   </head>
+
 <body>
   <div class="wrapper">
   <header role="banner">
