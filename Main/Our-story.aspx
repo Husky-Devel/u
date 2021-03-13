@@ -58,7 +58,7 @@
   }
   </style> 
         <link href="/CSS/Wrapper.css" rel="stylesheet" type="text/css" />
-        <iframe src="https://theminecraftdogs.librarika.com/" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="900px" width="1000px" allowfullscreen></iframe>
+        <iframe src="https://theminecraftdogs.librarika.com/" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="1050px" width="1050px" allowfullscreen></iframe>
     </head>
     
     <body></body>
