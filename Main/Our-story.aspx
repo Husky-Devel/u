@@ -44,7 +44,6 @@
           <a class="active" href="index.aspx">Home</a>
           <a href="Contact.aspx">Contact</a>
           <a href="About-us.aspx">About </a> 
-          <a href="Our-story.aspx">Reference</a> 
           <a href="Where-are-we.aspx">Where are we?</a>
           <a href="Indev.aspx">Sign up</a>
           <a href="Test-hide.aspx">The ambassadors</a>
@@ -58,7 +57,11 @@
   }
   </style> 
         <link href="/CSS/Wrapper.css" rel="stylesheet" type="text/css" />
+<<<<<<< HEAD
         <iframe src="https://news.google.com/topstories?hl=en-NZ&gl=NZ&ceid=NZ%3Aen" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="900px" width="1000px" allowfullscreen></iframe>
+=======
+        <iframe src="https://theminecraftdogs.librarika.com/" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="1000px" width="1000px" allowfullscreen></iframe>
+>>>>>>> 22665f4b1936034375fa45cb59a14ade5fb8ce8a
     </head>
     
     <body></body>
