@@ -47,6 +47,7 @@
         <a href="/main/Dora/">Game</a>
         <a href="Test-hide.aspx">The ambassadors</a>
         <a href="Store.aspx">Store </a>
+         <a href="https://husky-webdev.azurewebsites.net/.auth/login/google/callback">Sign in </a>
         <style>
 body {
   background-image: url('./Images/small-logo2.png');
