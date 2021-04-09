@@ -3,6 +3,7 @@
     <title>West Rolleston</title>
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
     <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
+     <link rel="stylesheet" type="text/css" href="CSS/index.css" />
   </head>
 <body>
   <div class="wrapper">
@@ -45,9 +46,14 @@
         <a href="https://github.com/Husky-Devel/husky-webdev-websiterepo">Sorce code</a> 
         <a href="Where-are-we.aspx">Where are we?</a>
         <a href="/main/Dora/">Game</a>
-        <a href="Test-hide.aspx">The ambassadors</a>
-        <a href="Store.aspx">Store </a>
-         <a href="https://husky-webdev.azurewebsites.net/.auth/login/google/callback">Sign in </a>
+        <div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="https://husky-webdev.azurewebsites.net/.auth/login/google/callback">sign in</a>
+    <a href="Store.aspx">Store</a>
+    <a href="#">Link 3</a>
+  </div>
+</div>
         <style>
 body {
   background-image: url('./Images/small-logo2.png');
